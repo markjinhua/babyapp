@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Feeding",
+                "category_data": [
+                    {
+                        "title": "Feeding Schedule",
+                        "description": "How do I track my baby's feeding schedule, including breastfeeding, bottle-feeding, and solids?",
+                        "question": "How do I track my baby's feeding schedule, including breastfeeding, bottle-feeding, and solids?"
+                    },
+                    {
+                        "title": "Monitor Baby's intake",
+                        "description": "How do I monitor my baby's intake and ensure they are getting enough milk or formula?",
+                        "question": "How do I monitor my baby's intake and ensure they are getting enough milk or formula?"
+                    },
+                    {
+                        "title": "Baby's Growth",
+                        "description": "How do I track my baby's growth and weight gain in relation to their feeding habits?",
+                        "question": "How do I track my baby's growth and weight gain in relation to their feeding habits?"
+                    },
+                    {
+                        "title": "Feeding Problems",
+                        "description": "How can I troubleshoot common feeding problems, such as difficulty latching or reflux?",
+                        "question": "How can I troubleshoot common feeding problems, such as difficulty latching or reflux?"
+                    },
+                    {
+                        "title": "Connect",
+                        "description": "How do I monitor and track any special dietary needs or restrictions my baby may have, such as allergies or intolerances?",
+                        "question": "How do I monitor and track any special dietary needs or restrictions my baby may have, such as allergies or intolerances?"
+                    }
+                ]
+            },
+            {
+                "name": "Sleeping",
+                "category_data": [
+                    {
+                        "title": "Sleep Patterns",
+                        "description": "How do I track my baby's sleep patterns and create a sleep schedule?",
+                        "question": "How do I track my baby's sleep patterns and create a sleep schedule?"
+                    },
+                    {
+                        "title": "Sleep Quality",
+                        "description": "How do I monitor my baby's sleep quality and troubleshoot common sleep problems, such as difficulty falling asleep or staying asleep?",
+                        "question": "How do I monitor my baby's sleep quality and troubleshoot common sleep problems, such as difficulty falling asleep or staying asleep?"
+                    },
+                    {
+                        "title": "Baby's Growth",
+                        "description": "How do I monitor and track my baby's growth and developmental milestones in relation to their sleep patterns?",
+                        "question": "How do I monitor and track my baby's growth and developmental milestones in relation to their sleep patterns?"
+                    }
+                ]
+            },
+            {
+                "name": "Diapering",
+                "category_data": [
+                    {
+                        "title": "Baby's Diaper Changes",
+                        "description": "How do I track my baby's diaper changes, including wet and dirty diapers?",
+                        "question": "How do I track my baby's diaper changes, including wet and dirty diapers?"
+                    },
+                    {
+                        "title": "Diapering Habits",
+                        "description": "How do I monitor my baby's diapering habits and troubleshoot common diapering problems, such as diaper rash or leaks?",
+                        "question": "How do I monitor my baby's diapering habits and troubleshoot common diapering problems, such as diaper rash or leaks?"
+                    },
+                    {
+                        "title": "Best Diapers",
+                        "description": "How to can help me choose the best diapers for my baby or troubleshoot diapering issues?",
+                        "question": "How to can help me choose the best diapers for my baby or troubleshoot diapering issues?"
+                    },
+                    {
+                        "title": "Last Update",
+                        "description": "How do I maintain hygiene and cleanliness when changing my baby's diaper, and what is the tips and advice on diapering hygiene?",
+                        "question": "How do I maintain hygiene and cleanliness when changing my baby's diaper, and what is the tips and advice on diapering hygiene?"
+                    }
+                ]
+            },
+            {
+                "name": "Health and Wellness",
+                "category_data": [{
+                    "title": "Standard Benchmarks",
+                    "description": "How do I track my baby's growth and developmental milestones, and compare them to standard benchmarks?",
+                    "question": "How do I track my baby's growth and developmental milestones, and compare them to standard benchmarks?"
+                }, {
+                    "title": "Baby's Health",
+                    "description": "How do I monitor my baby's health, and troubleshoot common issues such as fever, cough, or rashes?",
+                    "question": "How do I monitor my baby's health, and troubleshoot common issues such as fever, cough, or rashes?"
+                }, {
+                    "title": "Certain Foods",
+                    "description": "How to can record notes or observations about my baby's health, such as reactions to certain foods or medications?",
+                    "question": "How to can record notes or observations about my baby's health, such as reactions to certain foods or medications?"
+                }, {
+                    "title": "Baby's Vaccinations",
+                    "description": "How do I monitor and track my baby's vaccinations, and know when they are due for the next one?",
+                    "question": "How do I monitor and track my baby's vaccinations, and know when they are due for the next one?"
+                }]
+            }
+        ]
+    }
+}
