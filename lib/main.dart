@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:chat_gpt/screens/home_pages/home_screen.dart';
-import 'package:chat_gpt/screens/onboarding_pages/on_boarding_screen.dart';
 import 'package:chat_gpt/screens/search_images_pages/search_images_screen.dart';
 import 'package:chat_gpt/screens/splash_screen_pages/splash_screen.dart';
 import 'package:chat_gpt/theme/app_theme.dart';
