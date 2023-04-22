@@ -224,24 +224,23 @@ class AppIcon{
     );
   }
 
-  static Widget image1() {
-    return SvgPicture.asset(
-      AppAssets.image1,
-    );
-  }
+  // static Widget image1() {
+  //   return SvgPicture.asset(
+  //     AppAssets.image1,
+  //   );
+  // }
 
-  static Widget image2() {
-    return SvgPicture.asset(
-      AppAssets.image2,
-    );
-  }
+  // static Widget image2() {
+  //   return SvgPicture.asset(
+  //     AppAssets.image2,
+  //   );
+  // }
 
-
-  static Widget image3() {
-    return SvgPicture.asset(
-      AppAssets.image3,
-    );
-  }
+  // static Widget image3() {
+  //   return SvgPicture.asset(
+  //     AppAssets.image3,
+  //   );
+  // }
 
 
 

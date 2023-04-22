@@ -37,7 +37,7 @@ class AppAssets {
   static String applogoImage = "${iconPath}applogo.png";
   static String premiumIcon1 = "${iconPath}premiumIcon1.svg";
 
-  static String image1 = "${iconPath}image1.png";
-  static String image2 = "${iconPath}image2.png";
-  static String image3 = "${iconPath}image3.png";
+    // static String image1 = "${iconPath}image1.png";
+  // static String image2 = "${iconPath}image2.png";
+  // static String image3 = "${iconPath}image3.png";
 }
