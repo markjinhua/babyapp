@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Karmienie",
+                "category_data": [
+                    {
+                        "title": "Harmonogram karmienia",
+                        "description": "Jak śledzić harmonogram karmienia mojego dziecka, w tym karmienie piersią, butelką i pokarmami stałymi?",
+                        "question": "Jak śledzić harmonogram karmienia mojego dziecka, w tym karmienie piersią, karmienie butelką i pokarmy stałe?"
+                    },
+                    {
+                        "title": "Monitoruj spożycie dziecka",
+                        "description": "Jak monitorować spożycie mojego dziecka i upewnić się, że otrzymuje wystarczającą ilość mleka lub mieszanki?",
+                        "question": "Jak monitorować spożycie mleka przez moje dziecko i upewnić się, że otrzymuje wystarczającą ilość mleka lub mieszanki?"
+                    },
+                    {
+                        "title": "Rozwój dziecka",
+                        "description": "Jak mogę śledzić wzrost i przyrost wagi mojego dziecka w odniesieniu do jego nawyków żywieniowych?",
+                        "question": "Jak mogę śledzić wzrost i przyrost masy ciała mojego dziecka w odniesieniu do jego nawyków żywieniowych?"
+                    },
+                    {
+                        "title": "Problemy z karmieniem",
+                        "description": "Jak mogę rozwiązać typowe problemy z karmieniem, takie jak trudności z chwytaniem lub refluksem?",
+                        "question": "Jak mogę rozwiązać typowe problemy z karmieniem, takie jak trudności z chwytaniem pokarmu lub refluks?"
+                    },
+                    {
+                        "title": "Połącz",
+                        "description": "Jak monitorować i śledzić wszelkie specjalne potrzeby żywieniowe lub ograniczenia, jakie może mieć moje dziecko, takie jak alergie lub nietolerancje?",
+                        "question": "Jak monitorować i śledzić wszelkie specjalne potrzeby żywieniowe lub ograniczenia, jakie może mieć moje dziecko, takie jak alergie lub nietolerancje?"
+                    }
+                ]
+            },
+            {
+                "name": "Śpiące",
+                "category_data": [
+                    {
+                        "title": "Wzorce snu",
+                        "description": "Jak śledzić wzorce snu mojego dziecka i tworzyć harmonogram snu?",
+                        "question": "Jak śledzić wzorce snu mojego dziecka i tworzyć harmonogram snu?"
+                    },
+                    {
+                        "title": "Jakość snu",
+                        "description": "Jak monitorować jakość snu mojego dziecka i rozwiązywać typowe problemy ze snem, takie jak trudności z zasypianiem lub utrzymaniem snu?",
+                        "question": "Jak monitorować jakość snu mojego dziecka i rozwiązywać typowe problemy ze snem, takie jak trudności z zasypianiem lub utrzymaniem snu?"
+                    },
+                    {
+                        "title": "Rozwój dziecka",
+                        "description": "Jak monitorować i śledzić wzrost i kamienie milowe rozwoju mojego dziecka w odniesieniu do wzorców snu?",
+                        "question": "Jak monitorować i śledzić wzrost i kamienie milowe rozwoju mojego dziecka w odniesieniu do jego wzorców snu?"
+                    }
+                ]
+            },
+            {
+                "name": "Pieluchy",
+                "category_data": [
+                    {
+                        "title": "Zmiana pieluchy dziecka",
+                        "description": "Jak mogę śledzić zmiany pieluch mojego dziecka, w tym mokre i brudne pieluchy?",
+                        "question": "Jak śledzić zmiany pieluszek mojego dziecka, w tym mokre i brudne pieluchy?"
+                    },
+                    {
+                        "title": "Nawyki związane z pieluchami",
+                        "description": "Jak monitorować nawyki związane z pieluchowaniem mojego dziecka i rozwiązywać typowe problemy z pieluchami, takie jak odparzenia lub wycieki?",
+                        "question": "Jak monitorować nawyki związane z pieluchowaniem mojego dziecka i rozwiązywać typowe problemy związane z pieluchami, takie jak odparzenia lub wycieki?"
+                    },
+                    {
+                        "title": "Najlepsze pieluchy",
+                        "description": "Jak mogę pomóc wybrać najlepsze pieluchy dla mojego dziecka lub rozwiązać problemy z pieluchami?",
+                        "question": "Jak mogę pomóc wybrać najlepsze pieluchy dla mojego dziecka lub rozwiązać problemy z pieluchami?"
+                    },
+                    {
+                        "title": "Ostatnia aktualizacja",
+                        "description": "Jak zachować higienę i czystość podczas przewijania dziecka oraz jakie są wskazówki i porady dotyczące higieny pieluch?",
+                        "question": "Jak zachować higienę i czystość podczas przewijania dziecka oraz jakie są wskazówki i porady dotyczące higieny podczas przewijania?"
+                    }
+                ]
+            },
+            {
+                "name": "Zdrowie i dobre samopoczucie",
+                "category_data": [{
+                    "title": "Standardowe testy porównawcze",
+                    "description": "Jak mogę śledzić wzrost i kamienie milowe rozwoju mojego dziecka i porównywać je ze standardowymi wzorcami?",
+                    "question": "Jak mogę śledzić wzrost i kamienie milowe rozwoju mojego dziecka i porównywać je ze standardowymi wzorcami?"
+                }, {
+                    "title": "Zdrowie dziecka",
+                    "description": "Jak monitorować zdrowie mojego dziecka i rozwiązywać typowe problemy, takie jak gorączka, kaszel lub wysypka?",
+                    "question": "Jak monitorować zdrowie mojego dziecka i rozwiązywać typowe problemy, takie jak gorączka, kaszel lub wysypka?"
+                }, {
+                    "title": "Określone produkty spożywcze",
+                    "description": "Jak zapisywać notatki lub obserwacje dotyczące zdrowia mojego dziecka, takie jak reakcje na określone pokarmy lub leki?",
+                    "question": "Jak zapisywać notatki lub obserwacje dotyczące zdrowia mojego dziecka, takie jak reakcje na niektóre pokarmy lub leki?"
+                }, {
+                    "title": "Szczepienia dziecka",
+                    "description": "Jak monitorować i śledzić szczepienia mojego dziecka i wiedzieć, kiedy przypada termin następnej?",
+                    "question": "Jak monitorować i śledzić szczepienia mojego dziecka i wiedzieć, kiedy przypada termin następnego szczepienia?"
+                }]
+            }
+        ]
+    }
+}

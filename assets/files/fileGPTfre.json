@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Alimentation",
+                "category_data": [
+                    {
+                        "title": "Programme d'alimentation",
+                        "description": "Comment puis-je suivre le programme d'alimentation de mon bébé, y compris l'allaitement, l'alimentation au biberon et les aliments solides ?",
+                        "question": "Comment puis-je suivre le programme d'alimentation de mon bébé, y compris l'allaitement, l'alimentation au biberon et les aliments solides ?"
+                    },
+                    {
+                        "title": "Surveiller l'apport de bébé",
+                        "description": "Comment puis-je contrôler la consommation de mon bébé et m'assurer qu'il boit suffisamment de lait ou de lait maternisé ?",
+                        "question": "Comment puis-je surveiller la consommation de mon bébé et m'assurer qu'il reçoit suffisamment de lait ou de préparation pour nourrissons ?"
+                    },
+                    {
+                        "title": "Croissance du bébé",
+                        "description": "Comment suivre la croissance et la prise de poids de mon bébé par rapport à ses habitudes alimentaires ?",
+                        "question": "Comment suivre la croissance et la prise de poids de mon bébé par rapport à ses habitudes alimentaires ?"
+                    },
+                    {
+                        "title": "Problèmes d'alimentation",
+                        "description": "Comment puis-je résoudre les problèmes d'alimentation courants, tels que la difficulté à prendre le sein ou le reflux ?",
+                        "question": "Comment puis-je résoudre les problèmes d'alimentation courants, tels que la difficulté à prendre le sein ou le reflux ?"
+                    },
+                    {
+                        "title": "Se connecter",
+                        "description": "Comment puis-je surveiller et suivre les besoins alimentaires particuliers ou les restrictions que mon bébé peut avoir, comme les allergies ou les intolérances ?",
+                        "question": "Comment puis-je surveiller et suivre les besoins alimentaires particuliers ou les restrictions que mon bébé peut avoir, comme les allergies ou les intolérances ?"
+                    }
+                ]
+            },
+            {
+                "name": "Dormir",
+                "category_data": [
+                    {
+                        "title": "Modèles de sommeil",
+                        "description": "Comment puis-je suivre les habitudes de sommeil de mon bébé et créer un horaire de sommeil ?",
+                        "question": "Comment puis-je suivre les habitudes de sommeil de mon bébé et créer un horaire de sommeil ?"
+                    },
+                    {
+                        "title": "Qualité du sommeil",
+                        "description": "Comment surveiller la qualité du sommeil de mon bébé et résoudre les problèmes de sommeil courants, tels que la difficulté à s'endormir ou à rester endormi ?",
+                        "question": "Comment surveiller la qualité du sommeil de mon bébé et résoudre les problèmes de sommeil courants, tels que la difficulté à s'endormir ou à rester endormi ?"
+                    },
+                    {
+                        "title": "Croissance du bébé",
+                        "description": "Comment puis-je surveiller et suivre la croissance et les étapes de développement de mon bébé par rapport à ses habitudes de sommeil ?",
+                        "question": "Comment puis-je surveiller et suivre la croissance et les étapes de développement de mon bébé par rapport à ses habitudes de sommeil ?"
+                    }
+                ]
+            },
+            {
+                "name": "Couche",
+                "category_data": [
+                    {
+                        "title": "Changements de couches de bébé",
+                        "description": "Comment suivre les changements de couches de mon bébé, y compris les couches mouillées et sales ?",
+                        "question": "Comment puis-je suivre les changements de couches de mon bébé, y compris les couches mouillées et sales ?"
+                    },
+                    {
+                        "title": "Les habitudes de couche",
+                        "description": "Comment puis-je surveiller les habitudes de change de mon bébé et résoudre les problèmes courants liés aux couches, tels que l'érythème fessier ou les fuites ?",
+                        "question": "Comment puis-je surveiller les habitudes de change de mon bébé et résoudre les problèmes courants liés aux couches, tels que l'érythème fessier ou les fuites ?"
+                    },
+                    {
+                        "title": "Meilleures couches",
+                        "description": "Comment puis-je m'aider à choisir les meilleures couches pour mon bébé ou à résoudre les problèmes liés aux couches ?",
+                        "question": "Comment puis-je m'aider à choisir les meilleures couches pour mon bébé ou à résoudre les problèmes liés aux couches ?"
+                    },
+                    {
+                        "title": "Dernière mise à jour",
+                        "description": "Comment puis-je maintenir l'hygiène et la propreté lorsque je change la couche de mon bébé, et quels sont les conseils et astuces sur l'hygiène des couches ?",
+                        "question": "Comment puis-je maintenir l'hygiène et la propreté lorsque je change la couche de mon bébé, et quels sont les conseils et astuces sur l'hygiène des couches?"
+                    }
+                ]
+            },
+            {
+                "name": "Santé et bien-être",
+                "category_data": [{
+                    "title": "Repères standards",
+                    "description": "Comment puis-je suivre la croissance et les étapes de développement de mon bébé, et les comparer aux repères standard ?",
+                    "question": "Comment puis-je suivre la croissance et les étapes de développement de mon bébé et les comparer aux repères standard ?"
+                }, {
+                    "title": "La santé de bébé",
+                    "description": "Comment surveiller la santé de mon bébé et résoudre les problèmes courants tels que la fièvre, la toux ou les éruptions cutanées ?",
+                    "question": "Comment surveiller la santé de mon bébé et résoudre les problèmes courants tels que la fièvre, la toux ou les éruptions cutanées ?"
+                }, {
+                    "title": "Certains aliments",
+                    "description": "Comment puis-je enregistrer des notes ou des observations sur la santé de mon bébé, telles que les réactions à certains aliments ou médicaments ?",
+                    "question": "Comment puis-je enregistrer des notes ou des observations sur la santé de mon bébé, telles que les réactions à certains aliments ou médicaments ?"
+                }, {
+                    "title": "Vaccinations de bébé",
+                    "description": "Comment puis-je contrôler et suivre les vaccinations de mon bébé, et savoir quand elles doivent être vaccinées ?",
+                    "question": "Comment puis-je surveiller et suivre les vaccinations de mon bébé, et savoir quand il doit être vacciné pour la prochaine ?"
+                }]
+            }
+        ]
+    }
+}

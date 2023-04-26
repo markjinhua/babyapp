@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Nutrire",
+                "category_data": [
+                    {
+                        "title": "Programma di alimentazione",
+                        "description": "Come posso tenere traccia del programma di alimentazione del mio bambino, inclusi l'allattamento al seno, il biberon e i cibi solidi?",
+                        "question": "Come posso tenere traccia del programma di alimentazione del mio bambino, inclusi l'allattamento al seno, il biberon e i cibi solidi?"
+                    },
+                    {
+                        "title": "Controlla l'assunzione del bambino",
+                        "description": "Come posso controllare l'assunzione del mio bambino e assicurarmi che riceva abbastanza latte o formula?",
+                        "question": "Come posso controllare l'assunzione del mio bambino e assicurarmi che riceva abbastanza latte o formula?"
+                    },
+                    {
+                        "title": "La crescita del bambino",
+                        "description": "Come posso monitorare la crescita e l'aumento di peso del mio bambino in relazione alle sue abitudini alimentari?",
+                        "question": "Come posso monitorare la crescita e l'aumento di peso del mio bambino in relazione alle sue abitudini alimentari?"
+                    },
+                    {
+                        "title": "Problemi di alimentazione",
+                        "description": "Come posso risolvere problemi di alimentazione comuni, come difficoltà ad attaccarsi o reflusso?",
+                        "question": "Come posso risolvere i comuni problemi di alimentazione, come la difficoltà ad attaccarsi o il reflusso?"
+                    },
+                    {
+                        "title": "Connetti",
+                        "description": "Come posso monitorare e tenere traccia di eventuali esigenze dietetiche particolari o restrizioni che il mio bambino potrebbe avere, come allergie o intolleranze?",
+                        "question": "Come posso monitorare e tenere traccia di eventuali esigenze dietetiche particolari o restrizioni che il mio bambino potrebbe avere, come allergie o intolleranze?"
+                    }
+                ]
+            },
+            {
+                "name": "Dormire",
+                "category_data": [
+                    {
+                        "title": "Schema di sonno",
+                        "description": "Come posso tenere traccia dei ritmi di sonno del mio bambino e creare un programma del sonno?",
+                        "question": "Come posso tenere traccia dei ritmi del sonno del mio bambino e creare un programma del sonno?"
+                    },
+                    {
+                        "title": "Qualità del sonno",
+                        "description": "Come posso monitorare la qualità del sonno del mio bambino e risolvere problemi di sonno comuni, come la difficoltà ad addormentarsi o a mantenere il sonno?",
+                        "question": "Come posso monitorare la qualità del sonno del mio bambino e risolvere problemi di sonno comuni, come la difficoltà ad addormentarsi o a mantenere il sonno?"
+                    },
+                    {
+                        "title": "La crescita del bambino",
+                        "description": "Come posso monitorare e monitorare la crescita e le tappe fondamentali dello sviluppo del mio bambino in relazione ai suoi schemi di sonno?",
+                        "question": "Come faccio a monitorare e tenere traccia della crescita del mio bambino e delle pietre miliari dello sviluppo in relazione ai suoi schemi di sonno?"
+                    }
+                ]
+            },
+            {
+                "name": "Pannolino",
+                "category_data": [
+                    {
+                        "title": "Il pannolino cambia",
+                        "description": "Come posso tenere traccia dei cambi di pannolino del mio bambino, compresi i pannolini bagnati e sporchi?",
+                        "question": "Come faccio a tenere traccia dei cambi di pannolino del mio bambino, compresi i pannolini bagnati e sporchi?"
+                    },
+                    {
+                        "title": "Abitudini sull'uso dei pannolini",
+                        "description": "Come posso monitorare le abitudini di pannolino del mio bambino e risolvere i problemi comuni di pannolino, come dermatite da pannolino o perdite?",
+                        "question": "Come posso monitorare le abitudini di pannolino del mio bambino e risolvere i problemi comuni di pannolino, come dermatite da pannolino o perdite?"
+                    },
+                    {
+                        "title": "I migliori pannolini",
+                        "description": "Come posso aiutarmi a scegliere i pannolini migliori per il mio bambino o a risolvere i problemi relativi ai pannolini?",
+                        "question": "Come posso aiutarmi a scegliere i pannolini migliori per il mio bambino o a risolvere i problemi relativi al pannolino?"
+                    },
+                    {
+                        "title": "Ultimo aggiornamento",
+                        "description": "Come mantengo l'igiene e la pulizia quando cambio il pannolino del mio bambino, e quali sono i suggerimenti e i consigli sull'igiene del pannolino?",
+                        "question": "Come posso mantenere l'igiene e la pulizia quando cambio il pannolino del mio bambino, e quali sono i suggerimenti e i consigli sull'igiene del pannolino?"
+                    }
+                ]
+            },
+            {
+                "name": "Salute e benessere",
+                "category_data": [{
+                    "title": "Riferimenti standard",
+                    "description": "Come posso monitorare la crescita e le tappe dello sviluppo del mio bambino e confrontarle con i benchmark standard?",
+                    "question": "Come faccio a monitorare la crescita e le pietre miliari dello sviluppo del mio bambino e confrontarle con i benchmark standard?"
+                }, {
+                    "title": "Salute del bambino",
+                    "description": "Come posso monitorare la salute del mio bambino e risolvere problemi comuni come febbre, tosse o eruzioni cutanee?",
+                    "question": "Come posso monitorare la salute del mio bambino e risolvere problemi comuni come febbre, tosse o eruzioni cutanee?"
+                }, {
+                    "title": "Alcuni cibi",
+                    "description": "Come posso registrare appunti o osservazioni sulla salute del mio bambino, come le reazioni a determinati alimenti o farmaci?",
+                    "question": "Come posso registrare note o osservazioni sulla salute del mio bambino, come le reazioni a determinati alimenti o farmaci?"
+                }, {
+                    "title": "Vaccinazioni del bambino",
+                    "description": "Come posso monitorare e tenere traccia delle vaccinazioni del mio bambino e sapere quando devono essere vaccinate per la prossima?",
+                    "question": "Come posso monitorare e tenere traccia delle vaccinazioni del mio bambino e sapere quando devono essere vaccinate per la prossima?"
+                }]
+            }
+        ]
+    }
+}

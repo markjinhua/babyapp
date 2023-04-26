@@ -9,6 +9,15 @@ class AppAssets {
   static String fileGPT = "${filePath}fileGPT.json";
   static String fileGPT2 = "${filePath}fileGPT2.json";
   static String fileGPT3 = "${filePath}fileGPT3.json";
+  static String fileGPTsp = "${filePath}fileGPTsp.json";
+  static String fileGPTfre = "${filePath}fileGPTfre.json";
+  static String fileGPTgem = "${filePath}fileGPTgem.json";
+  static String fileGPTch = "${filePath}fileGPTch.json";
+  static String fileGPThi = "${filePath}fileGPThi.json";
+  static String fileGPTar = "${filePath}fileGPTar.json";
+  static String fileGPTity = "${filePath}fileGPTity.json";
+  static String fileGPTpol = "${filePath}fileGPTpol.json";
+  static String fileGPTjapa = "${filePath}fileGPTjapa.json";
   static String loadingFile = "${filePath}loadingFile.json";
 
   static String themeIcon = "${iconPath}themeIcon.svg";
@@ -37,7 +46,7 @@ class AppAssets {
   static String applogoImage = "${iconPath}applogo.png";
   static String premiumIcon1 = "${iconPath}premiumIcon1.svg";
 
-    // static String image1 = "${iconPath}image1.png";
+  // static String image1 = "${iconPath}image1.png";
   // static String image2 = "${iconPath}image2.png";
   // static String image3 = "${iconPath}image3.png";
 }

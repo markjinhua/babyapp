@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Fütterung",
+                "category_data": [
+                    {
+                        "title": "Fütterungsplan",
+                        "description": "Wie verfolge ich den Ernährungsplan meines Babys, einschließlich Stillen, Flaschenfütterung und Beikost?",
+                        "question": "Wie verfolge ich den Ernährungsplan meines Babys, einschließlich Stillen, Flaschenfütterung und Beikost?"
+                    },
+                    {
+                        "title": "Die Einnahme des Babys überwachen",
+                        "description": "Wie überwache ich die Aufnahme meines Babys und stelle sicher, dass es genug Milch oder Säuglingsnahrung bekommt?",
+                        "question": "Wie überwache ich die Aufnahme meines Babys und stelle sicher, dass es genug Milch oder Säuglingsnahrung bekommt?"
+                    },
+                    {
+                        "title": "Das Wachstum des Babys",
+                        "description": "Wie verfolge ich das Wachstum und die Gewichtszunahme meines Babys in Bezug auf seine Ernährungsgewohnheiten?",
+                        "question": "Wie verfolge ich das Wachstum und die Gewichtszunahme meines Babys in Bezug auf seine Ernährungsgewohnheiten?"
+                    },
+                    {
+                        "title": "Ernährungsprobleme",
+                        "description": "Wie kann ich häufige Fütterungsprobleme beheben, wie zum Beispiel Schwierigkeiten beim Anlegen oder Reflux?",
+                        "question": "Wie kann ich häufige Probleme beim Füttern beheben, wie z. B. Schwierigkeiten beim Anlegen oder Reflux?"
+                    },
+                    {
+                        "title": "Verbinden",
+                        "description": "Wie überwache und verfolge ich spezielle Ernährungsbedürfnisse oder Einschränkungen meines Babys, wie z. B. Allergien oder Unverträglichkeiten?",
+                        "question": "Wie überwache und verfolge ich spezielle Ernährungsbedürfnisse oder Einschränkungen meines Babys, wie z. B. Allergien oder Unverträglichkeiten?"
+                    }
+                ]
+            },
+            {
+                "name": "Schlafend",
+                "category_data": [
+                    {
+                        "title": "Schlafmuster",
+                        "description": "Wie verfolge ich die Schlafmuster meines Babys und erstelle einen Schlafplan?",
+                        "question": "Wie verfolge ich die Schlafmuster meines Babys und erstelle einen Schlafplan?"
+                    },
+                    {
+                        "title": "Schlafqualität",
+                        "description": "Wie überwache ich die Schlafqualität meines Babys und behebe häufige Schlafprobleme wie Einschlaf- oder Durchschlafprobleme?",
+                        "question": "Wie überwache ich die Schlafqualität meines Babys und behebe häufige Schlafprobleme wie Ein- oder Durchschlafstörungen?"
+                    },
+                    {
+                        "title": "Das Wachstum des Babys",
+                        "description": "Wie überwache und verfolge ich das Wachstum und die Entwicklungsmeilensteine meines Babys in Bezug auf seine Schlafmuster?",
+                        "question": "Wie überwache und verfolge ich das Wachstum und die Entwicklungsmeilensteine meines Babys in Bezug auf seine Schlafmuster?"
+                    }
+                ]
+            },
+            {
+                "name": "Windeln",
+                "category_data": [
+                    {
+                        "title": "Babys Windelwechsel",
+                        "description": "Wie verfolge ich die Windelwechsel meines Babys, einschließlich nasser und schmutziger Windeln?",
+                        "question": "Wie verfolge ich die Windelwechsel meines Babys, einschließlich nasser und schmutziger Windeln?"
+                    },
+                    {
+                        "title": "Windelgewohnheiten",
+                        "description": "Wie überwache ich die Windelgewohnheiten meines Babys und behebe häufig auftretende Windelprobleme wie Windelausschlag oder Auslaufen?",
+                        "question": "Wie überwache ich die Windelgewohnheiten meines Babys und behebe häufig auftretende Windelprobleme wie Windelausschlag oder Auslaufen?"
+                    },
+                    {
+                        "title": "Beste Windeln",
+                        "description": "Wie kann ich mir helfen, die besten Windeln für mein Baby auszuwählen oder Windelprobleme zu beheben?",
+                        "question": "Wie kann ich mir helfen, die besten Windeln für mein Baby auszuwählen oder Windelprobleme zu beheben?"
+                    },
+                    {
+                        "title": "Letzte Aktualisierung",
+                        "description": "Wie halte ich Hygiene und Sauberkeit beim Wickeln meines Babys aufrecht und was sind die Tipps und Ratschläge zur Wickelhygiene?",
+                        "question": "Wie halte ich Hygiene und Sauberkeit beim Wickeln meines Babys aufrecht und was sind die Tipps und Ratschläge zur Wickelhygiene?"
+                    }
+                ]
+            },
+            {
+                "name": "Gesundheit und Wellness",
+                "category_data": [{
+                    "title": "Standard-Benchmarks",
+                    "description": "Wie verfolge ich das Wachstum und die Entwicklungsmeilensteine meines Babys und vergleiche sie mit Standard-Benchmarks?",
+                    "question": "Wie verfolge ich das Wachstum und die Entwicklungsmeilensteine meines Babys und vergleiche sie mit Standard-Benchmarks?"
+                }, {
+                    "title": "Gesundheit des Babys",
+                    "description": "Wie überwache ich die Gesundheit meines Babys und behebe häufige Probleme wie Fieber, Husten oder Hautausschläge?",
+                    "question": "Wie überwache ich die Gesundheit meines Babys und behebe häufige Probleme wie Fieber, Husten oder Hautausschläge?"
+                }, {
+                    "title": "Bestimmte Lebensmittel",
+                    "description": "Wie kann ich Notizen oder Beobachtungen über die Gesundheit meines Babys aufzeichnen, z. B. Reaktionen auf bestimmte Lebensmittel oder Medikamente?",
+                    "question": "Wie kann ich Notizen oder Beobachtungen über die Gesundheit meines Babys machen, wie zum Beispiel Reaktionen auf bestimmte Nahrungsmittel oder Medikamente?"
+                }, {
+                    "title": "Impfungen für Babys",
+                    "description": "Wie überwache und verfolge ich die Impfungen meines Babys und weiß, wann sie für die nächste fällig sind?",
+                    "question": "Wie überwache und verfolge ich die Impfungen meines Babys und weiß, wann sie für die nächste fällig sind?"
+                }]
+            }
+        ]
+    }
+}

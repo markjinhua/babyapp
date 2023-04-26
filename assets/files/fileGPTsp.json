@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Alimentación",
+                "category_data": [
+                    {
+                        "title": "Horario de alimentación",
+                        "description": "¿Cómo hago un seguimiento del horario de alimentación de mi bebé, incluida la lactancia materna, la alimentación con biberón y los alimentos sólidos?",
+                        "question": "¿Cómo hago un seguimiento del horario de alimentación de mi bebé, incluida la lactancia materna, la alimentación con biberón y los alimentos sólidos?"
+                    },
+                    {
+                        "title": "Monitorizar la ingesta del bebé",
+                        "description": "¿Cómo controlo la ingesta de mi bebé y me aseguro de que esté recibiendo suficiente leche o fórmula?",
+                        "question": "¿Cómo controlo la ingesta de mi bebé y me aseguro de que esté recibiendo suficiente leche o fórmula?"
+                    },
+                    {
+                        "title": "Crecimiento del bebé",
+                        "description": "¿Cómo controlo el crecimiento y el aumento de peso de mi bebé en relación con sus hábitos de alimentación?",
+                        "question": "¿Cómo controlo el crecimiento y el aumento de peso de mi bebé en relación con sus hábitos de alimentación?"
+                    },
+                    {
+                        "title": "Problemas de alimentación",
+                        "description": "¿Cómo puedo solucionar problemas comunes de alimentación, como dificultad para prenderse o reflujo?",
+                        "question": "¿Cómo puedo solucionar problemas comunes de alimentación, como dificultad para prenderse o reflujo?"
+                    },
+                    {
+                        "title": "Conectar",
+                        "description": "¿Cómo superviso y realizo un seguimiento de las necesidades o restricciones dietéticas especiales que pueda tener mi bebé, como alergias o intolerancias?",
+                        "question": "¿Cómo superviso y realizo un seguimiento de las necesidades o restricciones dietéticas especiales que pueda tener mi bebé, como alergias o intolerancias?"
+                    }
+                ]
+            },
+            {
+                "name": "Durmiendo",
+                "category_data": [
+                    {
+                        "title": "Patrones de sueño",
+                        "description": "¿Cómo hago un seguimiento de los patrones de sueño de mi bebé y creo un horario de sueño?",
+                        "question": "¿Cómo hago un seguimiento de los patrones de sueño de mi bebé y creo un horario de sueño?"
+                    },
+                    {
+                        "title": "Calidad del sueño",
+                        "description": "¿Cómo controlo la calidad del sueño de mi bebé y soluciono los problemas comunes del sueño, como la dificultad para conciliar el sueño o permanecer dormido?",
+                        "question": "¿Cómo controlo la calidad del sueño de mi bebé y resuelvo los problemas comunes del sueño, como la dificultad para conciliar el sueño o permanecer dormido?"
+                    },
+                    {
+                        "title": "Crecimiento del bebé",
+                        "description": "¿Cómo controlo y controlo el crecimiento y los hitos del desarrollo de mi bebé en relación con sus patrones de sueño?",
+                        "question": "¿Cómo controlo y hago un seguimiento del crecimiento y los hitos del desarrollo de mi bebé en relación con sus patrones de sueño?"
+                    }
+                ]
+            },
+            {
+                "name": "Cambio de pañales",
+                "category_data": [
+                    {
+                        "title": "Cambios de pañales del bebé",
+                        "description": "¿Cómo hago un seguimiento de los cambios de pañales de mi bebé, incluidos los pañales mojados y sucios?",
+                        "question": "¿Cómo hago un seguimiento de los cambios de pañales de mi bebé, incluidos los pañales mojados y sucios?"
+                    },
+                    {
+                        "title": "Hábitos de cambio de pañales",
+                        "description": "¿Cómo superviso los hábitos de cambio de pañales de mi bebé y soluciono problemas comunes de cambio de pañales, como rozaduras o fugas?",
+                        "question": "¿Cómo superviso los hábitos de cambio de pañales de mi bebé y soluciono problemas comunes de cambio de pañales, como rozaduras o fugas?"
+                    },
+                    {
+                        "title": "Los mejores pañales",
+                        "description": "¿Cómo puedo ayudarme a elegir los mejores pañales para mi bebé o solucionar problemas relacionados con el cambio de pañales?",
+                        "question": "¿Cómo puedo ayudarme a elegir los mejores pañales para mi bebé o solucionar problemas relacionados con el cambio de pañales?"
+                    },
+                    {
+                        "title": "Última actualización",
+                        "description": "¿Cómo mantengo la higiene y la limpieza al cambiar el pañal de mi bebé y cuáles son los consejos y sugerencias sobre la higiene del cambio de pañales?",
+                        "question": "¿Cómo mantengo la higiene y la limpieza al cambiar el pañal de mi bebé y cuáles son los consejos y sugerencias sobre la higiene del cambio de pañales?"
+                    }
+                ]
+            },
+            {
+                "name": "Salud y Bienestar",
+                "category_data": [{
+                    "title": "Puntos de referencia estándar",
+                    "description": "¿Cómo hago un seguimiento del crecimiento y los hitos del desarrollo de mi bebé y los comparo con los puntos de referencia estándar?",
+                    "question": "¿Cómo hago un seguimiento del crecimiento y los hitos del desarrollo de mi bebé y los comparo con los puntos de referencia estándar?"
+                }, {
+                    "title": "Salud del bebé",
+                    "description": "¿Cómo controlo la salud de mi bebé y soluciono problemas comunes como fiebre, tos o erupciones cutáneas?",
+                    "question": "¿Cómo controlo la salud de mi bebé y soluciono problemas comunes como fiebre, tos o erupciones?"
+                }, {
+                    "title": "Ciertos Alimentos",
+                    "description": "¿Cómo puedo registrar notas u observaciones sobre la salud de mi bebé, como reacciones a ciertos alimentos o medicamentos?",
+                    "question": "¿Cómo puedo registrar notas u observaciones sobre la salud de mi bebé, como reacciones a ciertos alimentos o medicamentos?"
+                }, {
+                    "title": "Vacunas para bebés",
+                    "description": "¿Cómo controlo y hago un seguimiento de las vacunas de mi bebé, y sé cuándo deben recibir la siguiente?",
+                    "question": "¿Cómo superviso y hago un seguimiento de las vacunas de mi bebé y sé cuándo deben recibir la siguiente?"
+                }]
+            }
+        ]
+    }
+}
